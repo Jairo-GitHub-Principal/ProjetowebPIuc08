@@ -1,0 +1,361 @@
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.exe
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.deps.json
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.json
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.dev.json
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.dll
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csprojAssemblyReference.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfoInputs.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfo.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CoreCompileInputs.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.input.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.output.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorCoreGenerate.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CopyComplete
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.Manifest.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.xml
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.genruntimeconfig.cache
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\CadastroCliente.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\LoginCliente.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\ListarCliente.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\produtos.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\Servicos.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\cadastrarOrcamento.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\acessorios.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\computadores.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasComputador.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasSmartphone.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\smartphone.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasPcCel.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\AtualizarCliente.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\delete.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\contatosFaleconosco\contatosFaleconosco.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\listarservicos.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\atualizaservico.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\comprar.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\admincadastro.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\adminlogin.cshtml.g.cs
+C:\Users\jairo\Desktop\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\teste.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.exe
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.deps.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.dev.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csprojAssemblyReference.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfoInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CoreCompileInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.MvcApplicationPartsAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.input.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.output.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorCoreGenerate.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\admincadastro.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\adminlogin.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\AtualizarCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\CadastroCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\delete.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\ListarCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\LoginCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\teste.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\contatosFaleconosco\contatosFaleconosco.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\acessorios.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\computadores.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasComputador.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasPcCel.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasSmartphone.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\produtos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\smartphone.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\atualizaservico.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\cadastrarOrcamento.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\comprar.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\listarservicos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\Servicos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CopyComplete
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.Manifest.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.xml
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.genruntimeconfig.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\envio_para_avaliação_correção\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\usuario\usuario.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.exe
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.deps.json
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.json
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.dev.json
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.dll
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csprojAssemblyReference.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfoInputs.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfo.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CoreCompileInputs.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.input.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.output.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorCoreGenerate.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\admincadastro.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\adminlogin.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\AtualizarCliente.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\CadastroCliente.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\delete.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\ListarCliente.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\LoginCliente.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\teste.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\contatosFaleconosco\contatosFaleconosco.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\acessorios.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\computadores.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasComputador.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasPcCel.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasSmartphone.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\produtos.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\smartphone.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\atualizaservico.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\cadastrarOrcamento.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\comprar.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\listarservicos.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\Servicos.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cs
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CopyComplete
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.Manifest.cache
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.xml
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+C:\Users\jairo\Desktop\perfilDeUsuario\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.genruntimeconfig.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csprojAssemblyReference.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfoInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CoreCompileInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.MvcApplicationPartsAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.exe
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.deps.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.dev.json
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.input.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.output.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorCoreGenerate.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\admincadastro.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\adminlogin.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\AtualizarCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\CadastroCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\delete.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\ListarCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\LoginCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\teste.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\contatosFaleconosco\contatosFaleconosco.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\acessorios.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\computadores.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasComputador.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasPcCel.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasSmartphone.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\produtos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\smartphone.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\atualizaservico.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\cadastrarOrcamento.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\comprar.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\listarservicos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\Servicos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CopyComplete
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.Manifest.cache
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.xml
+I:\senac EAD\tec informatica para internet\MODULO A Curso em desenvolvimento_atividades\Módulo A\UC08projeto integrador desenvolvedor web\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.genruntimeconfig.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.exe
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.deps.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.dev.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csprojAssemblyReference.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfoInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CoreCompileInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.MvcApplicationPartsAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.input.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.output.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorCoreGenerate.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\admincadastro.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\adminlogin.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\AtualizarCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\CadastroCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\delete.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\ListarCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\LoginCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\teste.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\contatosFaleconosco\contatosFaleconosco.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\acessorios.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\computadores.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasComputador.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasPcCel.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasSmartphone.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\produtos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\smartphone.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\atualizaservico.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\cadastrarOrcamento.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\comprar.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\listarservicos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\Servicos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CopyComplete
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.Manifest.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.xml
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\PIUC08moduloA\PIUC08_JairoCesarEnviar\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.genruntimeconfig.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\appsettings.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.exe
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.deps.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.runtimeconfig.dev.json
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csprojAssemblyReference.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfoInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.AssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CoreCompileInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.MvcApplicationPartsAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.input.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.TagHelpers.output.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorCoreGenerate.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\admincadastro.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\admin\adminlogin.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\AtualizarCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\CadastroCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\delete.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\ListarCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\LoginCliente.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\cliente\teste.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\contatosFaleconosco\contatosFaleconosco.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\acessorios.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\computadores.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasComputador.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasPcCel.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\pecasSmartphone.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\produtos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\produtos\smartphone.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\atualizaservico.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\cadastrarOrcamento.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\comprar.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\listarservicos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\Servicos.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.RazorTargetAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.csproj.CopyComplete
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.Manifest.cache
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\staticwebassets\Uc08Atv4jairoCesar.StaticWebAssets.xml
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.dll
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\PIUC08ModuloB\ETAPA5\Uc08Atv4jairoCesar\obj\Debug\netcoreapp3.1\Uc08Atv4jairoCesar.genruntimeconfig.cache

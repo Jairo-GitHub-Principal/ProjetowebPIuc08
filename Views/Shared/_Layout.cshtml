@@ -1,0 +1,239 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - InfoCelEletronics</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/bordas.css" />
+
+
+
+
+
+
+
+</head>
+
+<body style="background:#2F4F4F;" >
+    <div class="container-fluid ">
+        
+
+
+            <div class="row   p-5" style="background:#008080;"  >
+                  
+
+
+
+
+                <div class="col-sm-12  col-md-12  col-lg-12 nav justify-content-center   ">
+
+
+
+                    
+
+
+
+
+                    <!--***********************************************************************************************************************-->
+
+
+
+                    <nav class="navbar navbar-expand-lg navbar-light   " >
+
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"> </span>
+                        </button>
+
+
+
+                       
+
+
+
+                        <div class="collapse navbar-collapse" id="navbarNav">
+
+
+
+                            <ul class="navbar-nav text-center nav nav-pills nav-fill  font-weight " style="font-size: 18px ; text-shadow:1px 1px 2px  black;">
+
+
+
+                                <li class="nav-item active mr-1">
+                                    <a class="nav-link text-light" asp-area="" asp-controller="Home"
+                                        asp-action="Index" >Home</a>
+                                </li>
+
+                                <li class="nav-item mr-1">
+                                    <a class="nav-link text-light" asp-area="" asp-controller="produtos"
+                                        asp-action="produtos" >Produtos</a>
+                                </li>
+
+                                <li class="nav-item mr-1">
+                                    <a class="nav-link text-light" asp-area="" asp-controller="Servicos"
+                                        asp-action="Servicos" >Serviços</a>
+                                </li>
+
+                                <li class="nav-item mr-1">
+                                    <a class="nav-link text-light" asp-area="" asp-controller="contatosFaleconosco"
+                                        asp-action="contatosFaleconosco" >Fale Conosco</a>
+                                </li>
+
+                                <li class="nav-item mr-1">
+                                    <a class="nav-link text-light" asp-area="" asp-controller="cliente"
+                                        asp-action="CadastroCliente" >Cadastro</a>
+                                </li>
+
+
+
+
+                                <!--*******************************************************ADM***************************************************************-->
+                                @if (Context.Session.GetInt32("Id") == null)
+                                {// admin não logado
+
+
+                                    @if (Context.Session.GetInt32("idCliente") == null)
+                                    { // cliente não logado
+
+                                        <li class="nav-item mr-1">
+                                            <a class="nav-link text-light" asp-area="" asp-controller="cliente"
+                                        asp-action="LoginCliente" >Login</a>
+                                        </li>
+
+                                    }
+                                    else
+                                    { // cliente logado
+
+
+                                        <li class="nav-item mr-1">
+                                            <a class="nav-link text-light" asp-area="" asp-controller="cliente"
+                                        asp-action="ListarCliente" >Clientes</a>
+                                        </li>
+
+                                        <li class="nav-item mr-1">
+                                            <a class="nav-link text-light" asp-area="" asp-controller="cliente"
+                                        asp-action="Logout" >Sair</a>
+                                        </li>
+
+
+
+
+
+
+
+                                        <li class="nav-item mr-1">
+                                            <a class="nav-link text-light" asp-area="" asp-controller="Servicos"
+                                        asp-action="listarservicos" >listar serviços</a>
+                                        </li>
+                                        <li>
+
+                                            <h5>Olá &nbsp; @Context.Session.GetString("n")</h5>
+                                        </li>
+                                    }
+                                }
+
+
+
+                                else
+                                { // admin logado
+                                    <li class="nav-item mr-1">
+                                        <a class="nav-link text-light" asp-area="" asp-controller="cliente"
+                                        asp-action="ListarCliente" >Clientes</a>
+                                    </li>
+
+
+
+                                    <li class="nav-item mr-1">
+                                        <a class="nav-link text-light" asp-area="" asp-controller="Servicos"
+                                        asp-action="listarservicos" >listar serviços</a>
+                                    </li>
+
+
+                                    <li class="nav-item mr-1">
+                                        <a class="nav-link text-light" asp-area="" asp-controller="admin"
+                                        asp-action="admincadastro" >Cadastrar ADM</a>
+                                    </li>
+
+
+                                    <li class="nav-item mr-1">
+                                        <a class="nav-link text-light" asp-area="" asp-controller="admin"
+                                        asp-action="Logoutadm" >Sair</a>
+                                    </li>
+                                    <li>
+
+                                        <h2>Olá! &nbsp;  @Context.Session.GetString("usuarioADM")</h2>
+                                    </li>
+
+
+                                }
+
+                            </ul>
+
+                        </div>
+
+
+
+
+                    </nav>
+
+                   
+                     
+                </div>
+                <!--fecha col-->
+                     
+            </div>
+            <!--fecha row-->
+
+
+
+        
+
+
+        
+
+
+            <div class=" row " style="background:#2F4F4F; ">
+                   <div  class="col-12" >
+                    <main role="main" class="mb-3"  >
+                        @RenderBody()
+                    </main>
+                    </div>
+               
+            </div>
+            
+
+
+
+       
+                <footer class=" text-center border  footer fixed-bottom" style="background:#008080;">
+                        <!-- Copyright -->
+                        <div class="text-center p-1">
+                            &copy; 2022 - InfoCelEletronics - <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </div>
+                        <!-- Copyright -->
+            </footer>
+                
+
+            
+  
+
+
+
+       
+
+       
+
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+
+        @RenderSection("Scripts", required: false)
+    </div>
+</body>
+
+</html>

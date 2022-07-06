@@ -1,0 +1,146 @@
+@using Microsoft.AspNetCore.Http;
+@model cliente
+
+
+
+
+<link rel="stylesheet"  href="~/css/bordas"/>
+
+
+<!--*******************************************************************************************************************************************************************-->
+
+<div class="row ">
+    <!--abre row-->
+    <div class="col-2"></div>
+    <div class="col-sm-12 col-md-8 col-lg-8 borda text-light">
+
+        <div class="text-center mt-3 mb-3 ">
+            <h4 style="margin-top: 0px;">serviços de manutenção de computadores e smartphones</h4>
+
+            @if (Context.Session.GetInt32("Id") == null) {// admin não logado
+
+
+            @if (Context.Session.GetInt32("idCliente") == null)
+            {
+            <a asp-controller="cliente" asp-action="CadastroCliente">
+                <h4 style="color: orangered;">Cadastre-se</h4>
+            </a><strong style="color: blueviolet;">para fazer orçamento</strong>
+            }
+            else
+            {
+            <h4 style="color: orangered; text-align:center;">
+                faça um orçamento clicando
+                <a asp-controller="Servicos" asp-action="cadastrarOrcamento"><b
+                        style="color: rgb(125, 215, 238);">Aqui</b></a>
+            </h4>
+            }
+            }
+            else
+            {
+
+            <h4 style= "color: orangered; text-align:center;">faça um orçamento clicando <a asp-Controller="Servicos"
+                    asp-action="cadastrarOrcamento"><b style="color: rgb(125, 215, 238);">Aqui</b></a></h4>
+
+            }
+
+
+
+
+        </div>
+    </div>
+    <!--fecha col-->
+    <div class="col-2"></div>
+</div>
+<!--fecha row-->
+
+<!--***********************************************************************************************************************************************************************************-->
+
+
+
+<article>
+
+    <div class="row">
+        <!--row manutenção computador-->
+
+        <div class="col-2"></div>
+        <div class="col-sm-12 col-md-4 col-lg-4 text-light " >
+
+
+            <div id="servComputador" style="border-right: 1px blue ;">
+                <h4>Manutenção de Computadores</h4>
+
+
+                <h5>
+                    <p>
+                        Manutenção Preventiva<br>
+                        Formatação:<br>
+                        Instalação de sistemas Windows:<br>
+                        Instalação de sistemas IOs:<br>
+                        Instalação de sistema linux:<br>
+                        Configurações de redes:<br>
+                        Instalações de pacotes de ferramentas "Aplicativos":<br>
+
+                    </p>
+                </h5>
+
+            </div>
+
+        </div>
+        <!--fecha col manutencao computador-->
+
+
+
+        <div class="col-sm-12 col-md-4 col-lg-4 mb-4  pl-5 pb-5 text-light">
+
+            <div id="servCelular" style="float: left; clear:rigth;">
+                <h4>Manutenção de Smartphones</h4>
+                <h5>
+                    <p>
+                        Rard reset<br>
+                        restauração de fabrica<br>
+                        Instalação de roms Androide<br>
+                        Instalação de roms IOs:<br>
+                        subistituição de frontais<br>
+                    </p>
+                </h5>
+
+            </div>
+
+        </div>
+        <!--fecha col manutencao celular-->
+        <div class="col-2"></div>
+    </div>
+    <!--fim row -->
+</article>
+
+
+
+
+<section >
+
+    <div class="row">        <!--row fale conosco-->
+        <div class="col-2"></div>
+        <div class="col-sm-12 col-md-8 col-lg-8 borda text-justify">
+
+            <h5 class="text-primary">
+                Para mais informações e conhecer outros serviços que não estão listados<br>entre em contato pelo <a class="text-warning"
+                    asp-controller="contatosFaleconosco" asp-action="contatosFaleconosco"> fale conosco </a>,agende uma
+                visita
+                tecnica,
+                ou visiti nossa loja:<br> <br>
+
+
+            </h5>
+        </div>
+        <div class="col-2"></div>
+    </div>
+    <!--fim row fale conosco-->
+
+    <div class="row pb-5 mt-5 mb-5" style="height: 150px ;">
+        <div class="col-2"></div>
+        <div class="col-sm-12 col-md-8 col-lg-8 borda text-center text-light">
+            <h2> Endereço: av.Marco das Oliveiras n°1000</h2>
+        </div>
+        <div class="col-2"></div>
+    </div>
+</section>

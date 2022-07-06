@@ -1,0 +1,64 @@
+@model adm
+
+
+<div class="row pt-5">
+    <div class="col-md-3 col-lg-4"></div>
+    <div class="col-sm-12 col-md-6 col-lg-4 text-center text-light">
+        <h5> Login de administradores do sistema</h5>
+    </div>
+    <div class="col-md-3 col-lg-4"></div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="row pb-5 pt-4 mb-5">
+    <div class="col-md-3 col-lg-4"></div>
+    <div class="col-sm-12 col-md-6 col-lg-4 ">
+
+
+        <form method="post" asp-action="adminlogin">
+
+            <div class="form-group">
+
+                <input type="text" asp-for="username" class="form-control" id="username" aria-describedby="emailHelp"
+                    placeholder="nome de usurio" style="background-color: #808080;">
+                <span class="msg-error msg-nome" style="font-size:15px; "></span>
+            </div>
+
+
+
+            <div class="form-group">
+
+                <input type="password" asp-for="senha" class="form-control" placeholder="Senha" required
+                    style="background-color: #808080;">
+            </div>
+
+            <input class="btn btn-warning" type="submit" value="Entrar">
+            </p>
+
+            @ViewData["msg"]
+
+
+
+
+
+        </form>
+
+        <div>
+            <h4>mensagem para o Professor</h4>
+            <h4> so é possivel cadastrar um user ADM estando logado na conta de outro ADM</h4>
+            <h4> ou digitando na barra de endereco http://localhost:5000/admin/admincadastro </h4>
+            <h4> ou pode usar os seguintes dados de acesso nome de usuario = j senha = j ou cadastrando direto no DB
+            </h4>
+        </div>
+
+
+    </div>
+    <div class="col-md-3 col-lg-4"></div>
+</div>

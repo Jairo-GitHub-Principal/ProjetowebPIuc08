@@ -1,0 +1,65 @@
+@using Microsoft.AspNetCore.Http;
+@model List<Servicos>
+
+@{
+    Layout="_Layout";
+}
+
+
+        <table class="table">
+<thead class="text-warning ">
+    <tr>
+    <th>Serviço ID</th>
+    <th>Categoria do serviço</th>
+    <th>Nome do serviço</th>
+    <th>Quantidade</th>
+    <th>Valor Unitario</th>
+    <th>Valor Total</th>
+    <th>Cliente ID </th>
+    </tr>
+</thead>
+@foreach (Servicos item in Model)
+{
+    <tbody class="text-light mb-5 ">
+    <tr>
+        <td>@item.idservico</td>
+        <td>@item.categoriaserv</td>
+        <td>@item.nomedoservico</td>
+        <td>@item.quantidadeserv</td>
+        <td>@item.valorunitario</td>
+        <td>@item.valortotal</td>
+         <td>@item.idclienteServico</td>
+        <td>
+             <!-- controle de acesso com previlegios diferenciado para o clliente e o usuario Adm-->
+
+                    @if(Context.Session.GetInt32("Id")==null){
+                        
+                      
+
+                    }else{
+                         
+                            <a href="/Servicos/atualizaservico?Id=@item.idservico">Atualizar</a>
+                             <a href="/Servicos/excluirservico?Id=@item.idservico">Excluir</a>
+
+                    }
+               
+            
+        </td>
+
+        
+    </tr>
+
+    </tbody>
+
+    
+      
+    
+    
+}
+
+
+</table>
+
+        
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    

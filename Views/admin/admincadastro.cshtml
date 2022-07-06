@@ -1,0 +1,61 @@
+@model adm
+
+  <div class="row pt-5">
+            <div class="col-md-3 col-lg-4"></div>
+                <div class="col-sm-12 col-md-6 col-lg-4 text-center text-light">
+                    <h5> cadastro  de administradores do sistema</h5>
+                </div>
+                <div class="col-md-3 col-lg-4"></div>
+            </div>
+                
+    
+    
+    
+
+                
+
+                 
+                                    
+                                    <div class="row pb-5 pt-4 mb-5">
+                                        <div class="col-md-3 col-lg-4"></div>
+                                        <div class="col-sm-12 col-md-6 col-lg-4 ">
+
+
+                                    <form method="Post"  asp-controller="admin" asp-action="admincadastro" name="formPrincipal">
+                                       
+                
+                                        <div class="form-group">
+                                            
+                                            <input type="text" asp-for="username"  class="form-control" id="username" aria-describedby="emailHelp" placeholder="nome de usurio" style="background-color: #808080;" >
+                                            <span class="msg-error msg-nome" style="font-size:15px; "></span>
+                                        </div>                                               
+                 
+                                        
+
+                                          <div class="form-group">
+                                            
+                                            <input type="password"  asp-for="senha" class="form-control"  placeholder="Senha" required style="background-color: #808080;">
+                                        </div>
+
+                                        <div class="form-group">
+                                       
+                                         </div>
+
+
+                                        
+
+                                        
+                                        
+                                        <button type="submit" class="btn btn-primary">Enviar</button>
+                                    </form>
+
+
+                                    
+                                    </div>
+                                    <div class="col-md-3 col-lg-4"></div>
+                                    </div>
+
+
+
+
+

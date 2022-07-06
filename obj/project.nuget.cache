@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PzjJo524kA80liL1Zo3ADGERsoj4FfqyZfTFEEyqBm6qq5Bh/Uz2Z224aicrYQq08vnfdKhOFZiTTu/4b96xWw==",
+  "success": true,
+  "projectFilePath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\PIUC08ModuloB\\ETAPA5\\Uc08Atv4jairoCesar\\Uc08Atv4jairoCesar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jairo\\.nuget\\packages\\mysqlconnector\\2.1.6\\mysqlconnector.2.1.6.nupkg.sha512",
+    "C:\\Users\\jairo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,149 @@
+@using Microsoft.AspNetCore.Http;
+@model Servicos
+
+
+@{
+  Layout = "_Layout";
+}
+
+
+
+
+
+<div class="row mt-5 mb-5">
+  <div class=" col-md-1 col-lg-1 "></div>
+  <div class="col-sm-12 col-md-4 col-lg-4 text-light">
+
+    <h3>computadores</h3>
+    <form method="post" asp-controller="Servicos" asp-action="cadastrarOrcamento">
+
+      <div class="form-group">
+
+        <label for="selcategoriaserv" > selecione a categoria do serviço</label>
+        <select id="selcategoriaserv" name="categoriaserv" class="form-control">
+          <option value="Nenhum" required>Nenhum</option>
+          <option value="Desktop">computador Desktop</option>
+          <option value="NoteBook">computador NoteBook</option>
+
+        </select>
+
+      </div>
+
+
+
+      <div class="form-group">
+
+        <label for="nomedoservico">selecione um serviço</label>
+        <select id="nomedoservico" name="nomedoservico" class="form-control">
+          <option value="nehum"> nehum</option>
+          <option value="Instalação de sistemas windows" required>Instalação de sistemas windows</option>
+          <option value="Instalação de sistemas linux">Instalação de sistemas linux</option>
+
+          <option value="Instalação de programas windws">Instalação de programas windows</option>
+          <option value="Instalação de programas linux">Instalação de programas linux</option>
+
+
+          <option value="Configurações rede"> Configurações rede wifi</option>
+          <option value=" Configurações wired"> Configurações rede wired</option>
+
+
+
+          <option value="Manutenção Preventiva">Manutenção Preventiva</option>
+          <option value="Instalação de hardwhare"> Instalação de hardwhare</option>
+
+
+          <option value="trocar telas de notebook"> trocar telas de notebook</option>
+          <option value="trocar teclados de notebook ">trocar teclados de notebook</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label asp-for="quantidadeserv ">quantidade</label>
+      
+        <input asp-for="quantidadeserv" type="number" class="form-control">
+       
+
+      </div>
+
+      <button type="submit" value="Cadastrar orçamento" class="btn btn-primary" > Cadastrar orçamento</button>
+
+      
+
+          <div>
+        <input value=@Context.Session.GetInt32("idCliente") type="hidden" asp-for="idclienteServico">
+          </div>
+
+          
+        
+
+
+     
+
+    </form>
+
+
+
+  </div>
+  <div class=" col-md-1 col-lg-1"></div>
+
+
+
+
+
+
+  <div class=" col-md-1 col-lg-1"></div>
+  <div class="col-sm-12 col-md-4 col-lg-4 text-light">
+
+
+    <h3>mobile</h3>
+
+    <form method="post" asp-controller="Servicos" asp-action="cadastrarOrcamento">
+
+      <div class="form-group">
+        <label for="selcategoriaserv"> selecione a categoria do serviço</label>
+        <select id="selcategoriaserv" name="categoriaserv" class="form-control">
+          <option value="Nenhum" required>Nenhum</option>
+          <option value="Smartphone">Smartphone</option>
+          <option value="Tablet">Tablet</option>
+        </select>
+
+      </div>
+
+
+
+      <div class="form-group">
+        <label for="nomedoservico">selecione um serviço</label>
+        <select id="nomedoservico" name="nomedoservico" class="form-control">
+          <option value="nehum"> nehum</option>
+          <option value="Instalação de roms Androide" required>Instalação de roms Androide</option>
+          <option value="Instalação de roms IOs">Instalação de roms IOs</option>
+
+          <option value="Instalação de apps">Instalação de apps</option>
+          <option value="subistituição de frontais">subistituição de frontais</option>
+
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label asp-for="quantidadeserv "  >quantidade</label>
+        <input asp-for="quantidadeserv" type="number" class="form-control">
+      </div>
+
+
+
+
+
+      <input value=@Context.Session.GetInt32("idCliente") type="hidden" asp-for="idclienteServico">
+
+
+<div class="form-group">
+      <button type="submit" class="btn btn-primary"value="Cadastrar orçamento"> Cadastrar orçamento</button>
+</div>
+
+
+
+    </form>
+
+  </div>
+  <div class=" col-md-1 col-lg-1"></div>
+</div>

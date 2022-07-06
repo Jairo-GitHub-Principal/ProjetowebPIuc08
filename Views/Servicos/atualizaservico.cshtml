@@ -1,0 +1,99 @@
+@model Servicos
+
+<article style="width: 100%;">
+
+    <div id="formulario" style="width: 100%;background:blue;text-align: center;">
+      <h3>computadores</h3>
+<form method="post" asp-controller="Servicos" asp-action="atualizaservico">
+   
+    
+    <p >
+     
+    <label for="selcategoriaserv" style="color: white;"> categoria do serviço</label>
+     <input asp-for="categoriaserv">
+</p>
+
+<p >
+  
+  <label for="nomedoservico" style="color: white;"> serviço</label>
+  <input asp-for="nomedoservico">
+ 
+</p>
+
+<p >
+
+  <label asp-for="quantidadeserv" style="color: white;">quantidade</label>
+ 
+      <input asp-for="quantidadeserv" type="number">
+
+</p>
+
+<p >
+  <label asp-for="valorunitario " style="color: white;">valor unitario</label>
+ 
+      <input asp-for="valorunitario">
+
+</p>
+
+
+
+
+
+ 
+<p>
+    <input asp-for="idservico">
+
+  <input type="submit" value="atualizar orçamento">
+</p>
+
+
+</form>
+
+
+<p >
+  <h3>mobile</h3>
+<form method="post" asp-controller="Servicos" asp-action="atualizaservico">
+   
+    <p  >
+    <label for="selcategoriaserv" style="color: white;">categoria do serviço</label>
+    <input asp-for="categoriaserv" >
+    
+</p>
+
+<p >
+  
+  <label for="nomedoservico" style="color: white;">serviço</label>
+  <input asp-for="nomedoservico" >
+</p>
+
+<p >
+  <label asp-for="quantidadeserv" style="color: white;">quantidade</label>
+ 
+      <input asp-for="quantidadeserv" type="number">
+
+</p>
+
+<p >
+  <label asp-for="valorunitario" style="color: white;">valor unitario</label>
+ 
+      <input asp-for="valorunitario">
+
+</p>
+
+
+
+
+ 
+<p>
+    
+    <input asp-for="idservico">
+
+    
+  <input type="submit" value="atualizar orçamento">
+</p>
+
+
+</form>
+</p>
+</div>
+</article>

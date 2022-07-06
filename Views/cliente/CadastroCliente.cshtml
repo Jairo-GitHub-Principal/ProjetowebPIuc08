@@ -1,0 +1,105 @@
+@using Microsoft.AspNetCore.Http;
+@model cliente
+
+@{
+    Layout = "_Layout";
+}
+
+
+
+
+ 
+            
+        
+        <aside >
+           <div class="row pt-5 ">
+            <div class="col-md-3 col-lg-4"></div>
+                <div class="col-sm-12 col-md-6 col-lg-4 text-center text-light">
+                    <h5>Faça seu cadastro aqui</h5>
+                </div>
+                <div class="col-md-3 col-lg-4"></div>
+            </div>
+                
+    
+    
+    
+
+                
+
+                 
+                                    
+                                    <div class="row pb-5 pt-4 mb-5">
+                                        <div class="col-md-3 col-lg-4"></div>
+                                        <div class="col-sm-12 col-md-6 col-lg-4 ">
+
+
+                                    <form method="Post"  asp-controller="cliente" asp-action="CadastroCliente" name="formPrincipal" onsubmit="return validaform(this);">
+                                       
+                
+                                        <div class="form-group">
+                                            
+                                            <input type="text" asp-for="nome"  class="form-control" id="nome" aria-describedby="emailHelp" placeholder="Seu nome" class="bg-light" >
+                                            <span class="msg-error msg-nome" style="font-size:15px; "></span>
+                                        </div>                                               
+                 
+                                        <div class="form-group">
+                                            
+                                            <input type="text"  asp-for="cpf" class="form-control"  placeholder="CPF" class="bg-light">
+                                        </div>
+
+                                        <div class="form-group">
+                                            
+                                            <input type="date"  asp-for="datanascimento" class="form-control"  placeholder="Data de nascimento" class="bg-light">
+                                        </div>
+
+                                        <div class="form-group">
+                                            
+                                            <input type="tel"  asp-for="tel" class="form-control"  placeholder="Telefone" class="bg-light">
+                                        </div>
+
+                                        <div class="form-group">
+                                            
+                                            <input type="text"  asp-for="endereco" class="form-control"  placeholder="Endereço" class="bg-light">
+                                        </div>
+
+                                        <div class="form-group">
+                                            
+                                            <input type="email"  asp-for="email" class="form-control"  placeholder="E-mail" class="bg-light" >
+                                        </div>
+
+                                          <div class="form-group">
+                                            
+                                            <input type="text"  asp-for="nomeUsuari" class="form-control"  placeholder="Nome de usuario" required class="bg-light">
+                                        </div>
+
+                                          <div class="form-group">
+                                            
+                                            <input type="password"  asp-for="senha" class="form-control"  placeholder="Senha" required class="bg-light">
+                                        </div>
+
+                                        <div class="form-group">
+                                         <input value=@Context.Session.GetInt32("idCliente") type="hidden" asp-for="identificadorCliente">
+                                         </div>
+
+
+                                        
+
+                                        
+                                        
+                                        <button type="submit" class="btn btn-primary">Enviar</button>
+                                    </form>
+
+
+                                    
+                                    </div>
+                                    <div class="col-md-3 col-lg-4"></div>
+                                    </div>
+
+
+
+
+                                    <script type="text/javascript" src="~/js/site.js"></script>
+        </aside>
+   
+
+   

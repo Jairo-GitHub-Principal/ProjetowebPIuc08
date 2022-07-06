@@ -1,0 +1,75 @@
+@using Microsoft.AspNetCore.Http;
+@model List<cliente>
+
+   
+   
+<div class="row ">
+    <div class="col-12">
+        <table class="table pt-5 ">
+<thead class="text-warning ">
+    <tr>
+    <th>ID</th>    
+    <th>Nome</th>
+    <th>Cpf</th>
+    <th>Nascimento</th>
+    <th>Endereço</th>
+    <th>E-mail</th>
+    <th>Tel</th>
+    <th>Nome de usuario</th>
+    <th>Senha</th>
+    </tr>
+    </thead>
+  <tbody>
+    @foreach (cliente item in Model)
+{ 
+    
+    <tbody class="text-light ">
+    <tr>
+    <td>@item.idCliente</td>
+    <td>@item.nome</td>
+     <td>@item.cpf</td>
+      <td>@item.datanascimento</td>
+       <td>@item.endereco</td>
+       <td>@item.email</td>
+        <td>@item.tel</td>
+         <td>@item.nomeUsuari</td>
+          <td>@item.senha</td>
+
+                <td>
+                    <!-- controle de acesso com previlegios diferenciado para o clliente e o usuario Adm-->
+
+                    @if(Context.Session.GetInt32("Id")==null){
+
+                        @if(Context.Session.GetInt32("idCliente")==null){
+
+                        }else{
+                            <a href="/cliente/AtualizarCliente?Id=@item.idCliente">Alterar</a> 
+                        }
+
+                    }else{
+                         <a href="/cliente/delete?Id=@item.idCliente">excluir</a>
+                        <a href="/cliente/AtualizarCliente?Id=@item.idCliente">Alterar</a>
+
+                    }
+               
+               
+                </td>
+    </tr>
+    
+    </tbody>
+}
+</tbody>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    
+
+
+</table>
+        
+    </div>
+</div>
+
+
+
+

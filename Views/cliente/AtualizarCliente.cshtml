@@ -1,0 +1,67 @@
+@model cliente
+
+@{
+  Layout = "_Layout";
+
+}
+
+<div class="row pt-5">
+  <div class="col-md-3 col-lg-4"></div>
+  <div class="col-sm-12 col-md-6 col-lg-4 mt-5 mb-5 text-light">
+
+
+    <form method="Post" asp-controller="cliente" asp-action="AtualizarCliente">
+      <h1>Atualize seu cadastro </h1>
+
+
+      <div class="form-group">
+
+        <input type="text" asp-for="nome" class="form-control" id="nome" aria-describedby="emailHelp"
+          placeholder="Seu nome">
+        <span class="msg-error msg-nome" style="font-size:15px; "></span>
+      </div>
+
+
+      <div class="form-group">
+
+        <input type="text" asp-for="cpf" class="form-control" placeholder="CPF">
+      </div>
+
+      <div class="form-group">
+
+        <input type="date" asp-for="datanascimento" class="form-control" placeholder="Data de nascimento">
+      </div>
+
+      <div class="form-group">
+
+        <input type="tel" asp-for="tel" class="form-control" placeholder="Telefone">
+      </div>
+
+      <div class="form-group">
+
+        <input type="text" asp-for="endereco" class="form-control" placeholder="Endereço">
+      </div>
+
+      <div class="form-group">
+
+        <input type="email" asp-for="email" class="form-control" placeholder="E-mail">
+      </div>
+
+      <div class="form-group">
+
+        <input type="text" asp-for="nomeUsuari" class="form-control" placeholder="Nome de usuario" required>
+      </div>
+
+      <div class="form-group">
+
+        <input type="password" asp-for="senha" class="form-control" placeholder="Senha" required>
+      </div>
+
+
+      <input asp-for="idCliente" type="hidden">
+      <input type="submit" value="Atualizar">
+
+    </form>
+  </div>
+  <div class="col-md-3 col-lg-4"></div>
+</div>
